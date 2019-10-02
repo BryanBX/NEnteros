@@ -1,0 +1,7 @@
+E:\Google Drive\Proyects\NEnteros\bin\Debug\NEnteros.exe.config
+E:\Google Drive\Proyects\NEnteros\bin\Debug\NEnteros.exe
+E:\Google Drive\Proyects\NEnteros\bin\Debug\NEnteros.pdb
+E:\Google Drive\Proyects\NEnteros\obj\Debug\NEnteros.csprojAssemblyReference.cache
+E:\Google Drive\Proyects\NEnteros\obj\Debug\NEnteros.csproj.CoreCompileInputs.cache
+E:\Google Drive\Proyects\NEnteros\obj\Debug\NEnteros.exe
+E:\Google Drive\Proyects\NEnteros\obj\Debug\NEnteros.pdb
